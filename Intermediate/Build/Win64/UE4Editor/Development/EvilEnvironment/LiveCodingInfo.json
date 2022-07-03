@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.EvilEnvironment.cpp.obj": [
+			"EvilEnvironmentModule.cpp.obj",
+			"MyFGBuildable.cpp.obj"
+		],
+		"Module.EvilEnvironment.gen.cpp.obj": [
+			"EvilEnvironment.init.gen.cpp.obj",
+			"MyFGBuildable.gen.cpp.obj"
+		]
+	}
+}

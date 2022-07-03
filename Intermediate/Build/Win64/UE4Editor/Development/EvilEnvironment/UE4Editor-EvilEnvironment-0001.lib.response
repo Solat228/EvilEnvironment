@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-EvilEnvironment-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"I:\UnrealEngineProject\Satis\Intermediate\Build\Win64\FactoryGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"I:\UnrealEngineProject\Satis\Plugins\EvilEnvironment\Intermediate\Build\Win64\UE4Editor\Development\EvilEnvironment\Module.EvilEnvironment.cpp.obj"
+"I:\UnrealEngineProject\Satis\Plugins\EvilEnvironment\Intermediate\Build\Win64\UE4Editor\Development\EvilEnvironment\Module.EvilEnvironment.gen.cpp.obj"
+"I:\UnrealEngineProject\Satis\Plugins\EvilEnvironment\Intermediate\Build\Win64\UE4Editor\Development\EvilEnvironment\Default.rc2.res"
+/OUT:"I:\UnrealEngineProject\Satis\Plugins\EvilEnvironment\Intermediate\Build\Win64\UE4Editor\Development\EvilEnvironment\UE4Editor-EvilEnvironment-0001.lib"
+/INCLUDE:IMPLEMENT_MODULE_EvilEnvironment
